@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31de3c9b-1c6b-42b2-baca-77d7ea704dc0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/A Needle in the Haystack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abbreviate a Two Word Name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner - Lost Without a Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convert a string to an array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convert number to reversed array of digits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fake Binary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I love you, a little , a lot, passionately ... not at all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge two sorted arrays into one.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Remove String Spaces.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUPERSIZE ME.... or rather, this integer!.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum Arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum Mixed Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of positive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UEFA EURO 2016.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Well of Ideas - Easy Version.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tests.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,20 +33,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tests.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/tests.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1294">
-              <caret line="156" selection-start-line="156" selection-end-line="156" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,7 +53,22 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Abbreviate a Two Word Name.js" />
+        <option value="$PROJECT_DIR$/Convert a string to an array.js" />
+        <option value="$PROJECT_DIR$/A Needle in the Haystack.js" />
+        <option value="$PROJECT_DIR$/Convert number to reversed array of digits.js" />
+        <option value="$PROJECT_DIR$/SUPERSIZE ME.... or rather, this integer!.js" />
+        <option value="$PROJECT_DIR$/Sum Mixed Array.js" />
+        <option value="$PROJECT_DIR$/Well of Ideas - Easy Version.js" />
+        <option value="$PROJECT_DIR$/I love you, a little , a lot, passionately ... not at all.js" />
         <option value="$PROJECT_DIR$/js/tests.js" />
+        <option value="$PROJECT_DIR$/UEFA EURO 2016.js" />
+        <option value="$PROJECT_DIR$/Beginner - Lost Without a Map.js" />
+        <option value="$PROJECT_DIR$/Fake Binary.js" />
+        <option value="$PROJECT_DIR$/Merge two sorted arrays into one.js" />
+        <option value="$PROJECT_DIR$/Remove String Spaces.js" />
+        <option value="$PROJECT_DIR$/Sum Arrays.js" />
+        <option value="$PROJECT_DIR$/Sum of positive.js" />
       </list>
     </option>
   </component>
@@ -76,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,16 +103,10 @@
               <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,11 +142,13 @@
       <workItem from="1530879440030" duration="7993000" />
       <workItem from="1530943424209" duration="3162000" />
       <workItem from="1531498894634" duration="16000" />
+      <workItem from="1532084904529" duration="30000" />
+      <workItem from="1532084951597" duration="355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11171000" />
+    <option name="totallyTimeSpent" value="11556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="349" y="105" width="1221" height="828" extended-state="0" />
@@ -166,6 +182,26 @@
     <entry file="file://$PROJECT_DIR$/js/tests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2652">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
           <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -183,24 +219,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
     <entry file="file://$PROJECT_DIR$/js/tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1294">
-          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        <state relative-caret-position="563">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A Needle in the Haystack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abbreviate a Two Word Name.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Beginner - Lost Without a Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert a string to an array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert number to reversed array of digits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fake Binary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/I love you, a little , a lot, passionately ... not at all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge two sorted arrays into one.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove String Spaces.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum Arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum Mixed Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum of positive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUPERSIZE ME.... or rather, this integer!.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UEFA EURO 2016.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Well of Ideas - Easy Version.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
